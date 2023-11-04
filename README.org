@@ -13,6 +13,9 @@ npm i axios
 #+end_src
 ** React Bootstrap
 + A bootstrap library for React
+#+begin_src bash
+npm install react-bootstrap bootstrap
+#+end_src
 * Extra notes
 ** Initial Steps used to create a project with VITE
 *** Create the Project
