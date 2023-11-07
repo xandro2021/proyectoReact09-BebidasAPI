@@ -10,8 +10,8 @@ const Formulario = () => {
     nombre: '',
     categoria: ''
   });
-
   const [alerta, setAlerta] = useState('');
+
   const { categorias } = useCategorias();
   const { consultarBebida } = useBebidas();
 
